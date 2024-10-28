@@ -1,0 +1,5 @@
+train: ../images/treino
+val: ../images/validacao
+
+nc: 3
+names: ['with-mask', 'without_mask', 'mask_weared_incorrect']
